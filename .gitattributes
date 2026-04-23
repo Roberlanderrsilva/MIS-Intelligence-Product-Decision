@@ -1,5 +1,4 @@
-*.html linguist-vendored=false
-*.html linguist-detectable=true
+*.html linguist-documentation
 *.py linguist-detectable=true
 *.sql linguist-detectable=true
 Dockerfile linguist-detectable=true
