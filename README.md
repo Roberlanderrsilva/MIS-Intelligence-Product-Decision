@@ -5,8 +5,18 @@ Este repositório foi desenvolvido para demonstrar competências avançadas em *
 
 ---
 
-## 🚀 Sobre o Projeto
-A missão aqui é transformar **dados brutos** em **inteligência estratégica**. Em uma operação de atendimento, os números revelam muito mais do que a performance individual; eles indicam falhas de usabilidade, instabilidades técnicas e oportunidades de melhoria contínua para o Produto.
+## 🚀 Sobre o Projetos
+
+## 📊 Visualização de Dados (BI & Analytics)
+O projeto utiliza **Tableau** e **Excel Power Query** para transformar a base CSV em dashboards executivos.
+
+### Exemplo de Estrutura de Dados (Dataset):
+| ID_Chamado | Motivo_Contato | Plataforma | Status |
+| :--- | :--- | :--- | :--- |
+| CH-001 | Erro de Login | iOS | Resolvido |
+| CH-002 | Dúvida Pagamento | Web | Pendente |
+
+> **Nota:** Para visualizar o dashboard interativo, consulte a pasta `/images` ou o relatório em PDF (em breve).
 
 ## ⚖️ Diferencial Estratégico (Híbrido)
 Minha trajetória une **Engenharia de Software** e **Direito**, permitindo uma atuação diferenciada em MIS e Produtos:
@@ -31,6 +41,27 @@ Minha trajetória une **Engenharia de Software** e **Direito**, permitindo uma a
 * `/data`: Bases de dados simuladas para análise.
 * `/insights`: Relatórios analíticos com recomendações para stakeholders.
 
+## 📊 Visualização de Dados (BI & Analytics)
+O projeto utiliza **Tableau** e **Excel Power Query** para transformar a base CSV em dashboards executivos.
+
+### Exemplo de Estrutura de Dados (Dataset):
+| ID_Chamado | Motivo_Contato | Plataforma | Status |
+| :--- | :--- | :--- | :--- |
+| CH-001 | Erro de Login | iOS | Resolvido |
+| CH-002 | Dúvida Pagamento | Web | Pendente |
+
+> **Nota:** Para visualizar o dashboard interativo, consulte a pasta `/images` ou o relatório em PDF (em breve).
+
+## 📊 Visualização de Dados (BI & Analytics)
+O projeto utiliza **Tableau** e **Excel Power Query** para transformar a base CSV em dashboards executivos.
+
+### Exemplo de Estrutura de Dados (Dataset):
+| ID_Chamado | Motivo_Contato | Plataforma | Status |
+| :--- | :--- | :--- | :--- |
+| CH-001 | Erro de Login | iOS | Resolvido |
+| CH-002 | Dúvida Pagamento | Web | Pendente |
+
+> **Nota:** Para visualizar o dashboard interativo, consulte a pasta `/images` ou o relatório em PDF (em breve).
 ---
 ## 📩 Contato
 Fique à vontade para se conectar comigo ou enviar sugestões:
