@@ -8,6 +8,12 @@ Este repositório foi desenvolvido para demonstrar competências avançadas em *
 ## 🚀 Sobre o Projeto
 A missão aqui é transformar **dados brutos** em **inteligência estratégica**. Em uma operação de atendimento, os números revelam muito mais do que a performance individual; eles indicam falhas de usabilidade, instabilidades técnicas e oportunidades de melhoria contínua para o Produto.
 
+## ⚖️ Diferencial Estratégico (Híbrido)
+Minha trajetória une **Engenharia de Software** e **Direito**, permitindo uma atuação diferenciada em MIS e Produtos:
+* **Data Compliance:** Análise de métricas orientada pela LGPD e privacidade do usuário.
+* **Governança de Dados:** Implementação de dicionários de dados e documentação técnica rigorosa.
+* **Automação Sênior:** Desenvolvimento de scripts (Python/Shell) para otimização de fluxos operacionais, reduzindo o trabalho manual e erros humanos.
+
 ## 🛠️ O que você encontrará aqui:
 * **Estruturação de KPIs:** Dashboards focados em Nível de Serviço (SL), TMA, TME e FCR.
 * **Análise de Produto:** Identificação de causas raiz de chamados para apoio ao time de desenvolvimento (iOS/Android/Web).
