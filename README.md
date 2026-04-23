@@ -17,7 +17,17 @@ O projeto utiliza **Tableau** e **Excel Power Query** para transformar a base CS
 | CH-002 | Dúvida Pagamento | Web | Pendente |
 
 > **Nota:** Para visualizar o dashboard interativo, consulte a pasta `/images` ou o relatório em PDF (em breve).
+## 📊 Visualização do Projeto
+Aqui podes ver o Dashboard em duas versões:
 
+### Versão Dark (Recomendada)
+![Dashboard Dark](images/dashboard_callcenter_dark.png)
+
+### Versão Light
+![Dashboard Light](images/dashboard_callcenter_light.png)
+
+---
+🔗 **[Clique aqui para abrir o Dashboard Interativo no Looker Studio](https://datastudio.google.com/s/iIJ6VV2HrO8)**
 ## ⚖️ Diferencial Estratégico (Híbrido)
 Minha trajetória une **Engenharia de Software** e **Direito**, permitindo uma atuação diferenciada em MIS e Produtos:
 * **Data Compliance:** Análise de métricas orientada pela LGPD e privacidade do usuário.
