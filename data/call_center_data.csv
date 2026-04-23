@@ -1,0 +1,11 @@
+ID_Chamado,Data_Hora,ID_Agente,Tempo_Espera_Seg,Tempo_Falado_Seg,Tempo_ACW_Seg,Motivo_Contato,Plataforma,Status
+CH-001,2023-10-01 08:05,Agente_01,15,320,45,Erro de Login,iOS,Resolvido
+CH-002,2023-10-01 08:12,Agente_02,40,450,60,Dúvida Pagamento,Web,Pendente
+CH-003,2023-10-01 08:15,Agente_01,5,180,30,Status do Pedido,Android,Resolvido
+CH-004,2023-10-01 08:20,Agente_03,120,600,100,Erro de Login,iOS,Resolvido
+CH-005,2023-10-01 08:30,Agente_02,10,240,40,Estorno Solicitado,Web,Resolvido
+CH-006,2023-10-01 08:45,Agente_04,0,150,20,Dúvida Pagamento,Android,Resolvido
+CH-007,2023-10-01 09:00,Agente_01,80,500,80,App Travando,iOS,Pendente
+CH-008,2023-10-01 09:10,Agente_03,200,900,120,Erro de Login,iOS,Resolvido
+CH-009,2023-10-01 09:15,Agente_04,5,210,35,Status do Pedido,Web,Resolvido
+CH-010,2023-10-01 09:20,Agente_02,30,400,50,Dúvida Pagamento,Android,Resolvido
